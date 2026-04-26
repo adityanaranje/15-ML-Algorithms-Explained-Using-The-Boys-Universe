@@ -2,7 +2,8 @@
 
 > What if ML algorithms were characters from *The Boys*?
 
----
+![The Boys Poster](https://github.com/adityanaranje/15-ML-Algorithms-Explained-Using-The-Boys-Universe/blob/main/boyspostergithub.png)
+
 
 ## 📖 Full Blog
 
